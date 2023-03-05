@@ -69,3 +69,11 @@ plt.ylabel("Precipitation (mmm)" )
 
 #precip_scores_df
 Text(0, 0.5, 'Precipitation (mmm)')
+
+![Capture](https://user-images.githubusercontent.com/24644072/222937008-0d351cee-ab86-4cf1-92ab-c559d5354675.PNG)
+
+
+
+
+
+![Capture1](https://user-images.githubusercontent.com/24644072/222937011-aa1d0e03-02f6-45ca-94ca-9bf7fa2f3d9f.PNG)
